@@ -4,7 +4,7 @@ This project demonstrates how to build and control a car using an **Arduino** an
 The car can be controlled wirelessly through an Android/iOS app or any Bluetooth terminal application.  
 
 ## Features
-- Control car movement (Forward, Backward, Left, Right, Stop) using Bluetooth commands.
+- Control car movement (Forward, Backward, Left, Right) using Bluetooth commands.
 - Built using Arduino Uno, motor driver (L293D), and Bluetooth module.
 - Easy to customize for different control apps.
 - Wireless range depends on the Bluetooth module (typically 5–10 meters).
