@@ -1,6 +1,6 @@
 # Bluetooth Controlled Car
 
-This project demonstrates how to build and control a car using an **Arduino** and a **Bluetooth module (HC-05/)**.  
+This project demonstrates how to build and control a car using an **Arduino** and a **Bluetooth module (HC-05)**.  
 The car can be controlled wirelessly through an Android/iOS app or any Bluetooth terminal application.  
 
 ## Features
